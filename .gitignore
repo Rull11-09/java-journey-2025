@@ -1,0 +1,28 @@
+# Build outputs
+build/
+dist/
+target/
+out/
+
+# Java compiled classes
+*.class
+
+# NetBeans
+nbproject/private/
+nbbuild/
+nbdist/
+.nb-gradle/
+
+# IntelliJ (por si migras)
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
