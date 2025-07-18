@@ -19,7 +19,7 @@ public class ShopApp {
         
         Customer c1 = new Customer();
         
-        c1.name="Pinky";
+        c1.name="Pinkyy";
         
       
         System.out.println("The custumer is "+ c1.name);
